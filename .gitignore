@@ -1,0 +1,17 @@
+img
+project_pics/*.jpg
+project_pics/*.png
+InfinityMirror.X/*.png
+!project_pics/debugger.jpg
+!project_pics/mirror.jpg
+!project_pics/schema.png
+**/*.pdf
+**/*.docx
+**/build
+**/dist
+**/debug
+**/production
+
+**/*.obj
+color func.c
+InfinityMirror.X/nbproject/private
